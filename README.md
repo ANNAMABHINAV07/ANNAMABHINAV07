@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ANNAMABHINAV07
 - 👀 I’m interested in ... learning new things
-- 🌱 I’m currently learning ...pythin,R,power-bi,SQL
+- 🌱 I’m currently learning ...python,R,power-bi,SQL
 - 💞️ I’m looking to collaborate on ...git
 - 📫 How to reach me ...my id
 - 😄 Pronouns: ...
