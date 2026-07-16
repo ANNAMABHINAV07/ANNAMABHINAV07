@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ Creating dashboards since 2023<br>📚 I'm currently learning Gen AI and developing interesting projects on RAG, Langchians etc....<br>🎯 Goals: ...Learn and demonstrate my own ai which is easily accessible for everyone<br>☺ i have used to train models with machine learning and deep learning and also interested to develop llm's... <br>🎲 Fun fact: ... i am a nasty fellow 
+✨Am a curiosity techie that love to work on development and databases<br>📚 I'm currently learning Gen AI and developing interesting projects on RAG, Langchians etc....<br>🎯 Goals: ...Learn and demonstrate my own ai which is easily accessible for everyone<br>☺ i have used to train models with machine learning and deep learning and also interested to develop llm's... <br>🎲 Fun fact: ... i am a nasty fellow 
 
 
 ## 🌐 Socials:
